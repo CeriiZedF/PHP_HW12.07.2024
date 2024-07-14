@@ -1,3 +1,14 @@
+
+#HW
+
+![Screenshot 2024-07-14 162328](https://github.com/user-attachments/assets/e4b07f53-13a9-4e4b-9e81-3e2e3fa66179)
+
+![Screenshot 2024-07-14 162304](https://github.com/user-attachments/assets/5fdca29b-bf3e-4fb0-ad22-271abb900a89)
+
+![Screenshot 2024-07-14 162256](https://github.com/user-attachments/assets/c5f0e631-325f-4f75-bfcc-f980292aae54)
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
